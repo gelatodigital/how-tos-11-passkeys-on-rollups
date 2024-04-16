@@ -2,7 +2,7 @@
 
 We will learn how to use ZeroDev Passkeys on Gelato Rollups
 
-[![Video Walkthrough](https://img.youtube.com/vi/R4gdMtYelk8/0.jpg)](https://youtu.be/R4gdMtYelk8)
+[![Video Walkthrough](https://img.youtube.com/vi/y4FPe8edPYM/0.jpg)](https://youtu.be/y4FPe8edPYM)
 
 
 Please visit a deployed demo app at [https://rollup-passkey.web.app/](https://rollup-passkey.web.app/)
